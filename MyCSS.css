@@ -1,0 +1,54 @@
+header h3{
+  color:#FF4500;
+  font-weight:bold;
+}
+
+nav li{
+  list-style:none;
+  font-family:arial;
+  display:inline-block;
+  justify-content:space-between;
+}
+
+nav li a{
+  margin: 5px;
+}
+  
+
+article{text-align:center;
+  
+}
+
+article h4{
+  color:#FF4500;
+  font-size:20px;
+}
+
+article p{
+  text-align:justify;
+}
+span{
+  color:#FF4500;
+  font-size:15px;
+ }
+
+figure{
+text-align:center;  
+}
+
+#follow{
+  color:#FF4500;
+  font-size:16px;
+}
+
+footer{
+  text-align:center;
+}
+footer h3{
+  color:#FF4500;
+   font-weight:bold;
+}
+
+footer a{
+  margin:6px
+}
